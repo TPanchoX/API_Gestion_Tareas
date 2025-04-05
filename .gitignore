@@ -1,0 +1,14 @@
+# Archivos y carpetas generadas por Visual Studio que deben ignorarse
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.log
+*.tmp
+*.cache
+*.pdb
